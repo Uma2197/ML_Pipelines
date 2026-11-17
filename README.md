@@ -17,7 +17,7 @@ Machine learning workflow in Python, split into clear, reusable steps, plus note
 
 ## Notebooks
 
-- `ML_Pipeline (1).ipynb` – the pipeline end to end
+- `ML_Pipeline.ipynb` – the pipeline end to end
 - `Methods_of_prediction.ipynb` – comparison of prediction methods
 - `NLP_Pipeline.ipynb` – text processing pipeline
 - `Python_EDA.ipynb` – exploratory data analysis
